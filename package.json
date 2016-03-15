@@ -1,5 +1,5 @@
 {
-  "name": "tldtools",
+  "name": "tldtools2",
   "description": "Extracts a domain into its component parts (node-url wrapper), performs domain inspection functions",
   "version": "0.0.24",
   "maintainers": [
